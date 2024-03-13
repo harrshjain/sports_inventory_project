@@ -8,7 +8,7 @@ This project implements a sports equipment inventory system using Django, with R
 
     ```bash
     git clone https://github.com/your_username/sports-equipment-inventory.git
-    cd sports-equipment-inventory
+    cd sports_equipment_inventory/Sports_Equipment_Inventory
     ```
 
 2. **Install dependencies:**
